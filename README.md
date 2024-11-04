@@ -1,21 +1,24 @@
 
-<h1 align="center">Hey friends 👋</h1>
+<h1>Hey friends 👋</h1>
 
-<p align="center">I'm a developer based in the UK 🇬🇧</p>
+<p>I'm a developer based in the UK 🇬🇧</p>
 
-<p align="center">
-<a href="https://shawncockburn.co.uk">Website 🤘</a> 
-<a href="https://blog.shawncockburn.co.uk">Blog ✍️</a> 
-<a href="https://twitter.com/shawncockburn">Twitter 🦆</a>
-</p>
-<div align="center">
-<h3>My tech stack</h3>
+<ul>
+<li><a href="https://shawncockburn.co.uk">Website 🤘</a></li>
+<li><a href="https://blog.shawncockburn.co.uk">Blog ✍️</a></li>
+<li><a href="https://x/shawncockburn">@shawncockburn (X) 🦆</a></li>
+</ul>
+<div>
+<h3>Tech I enjoy</h3>
 
-Typescript - React - Jest - AWS - HTML  
-CSS - Docker - MongoDB - SQLite - JavaFx
-
-[Fig](https://fig.io) - Git - VSCode - Hyper  
-Figma - IntelliJ - Github
+| Frontend      | Backend    | Tooling  | Other    |
+|---------------|------------|----------|----------|
+| TypeScript    | TypeScript | Jest     | AWS      |
+| Framer Motion | NestJS     | Docker   | Git      |
+| React         | Rust       | VSCode   | Github   |
+| HTML          | SQLite     | IntelliJ | Bash/Zsh |
+| CSS           | Postgres   |          | Figma    |
+|               | Java       |          |          |
 
 ---
 
