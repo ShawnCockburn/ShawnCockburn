@@ -1,20 +1,11 @@
-<h1>Hey friends 👋</h1>
+<div align="center">
 
-<p>I'm a developer based in the UK 🇬🇧</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Hey%2C+I'm+Shawn)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1000&color=999999&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Full-stack+developer+from+the+UK+%F0%9F%87%AC%F0%9F%87%A7;Building+with+TypeScript+%26+AI;I+also+take+photos+%F0%9F%93%B8)](https://git.io/typing-svg)
 
-- [Website 🤘](https://shawncockburn.co.uk)
-- [Blog ✍️](https://blog.shawncockburn.co.uk)
-- [@shawncockburn (X) 🦆](https://x.com/shawncockburn)
-- [I also take photos 📸](https://instagram.com/shawncockburn)
+---
 
-<h3>Tech I enjoy</h3>
+[website](https://shawncockburn.co.uk) · [blog](https://blog.shawncockburn.co.uk) · [x](https://x.com/shawncockburn) · [instagram](https://instagram.com/shawncockburn) · [email](mailto:hello@shawncockburn.co.uk)
 
-| Frontend      | Backend    | Tooling  | Other    |
-|---------------|------------|----------|----------|
-| TypeScript    | TypeScript | Jest     | AWS      |
-| Framer Motion | NestJS     | Docker   | Git      |
-| React         | Rust       | VSCode   | Github   |
-| HTML          | SQLite     | IntelliJ | Bash/Zsh |
-| CSS           | Postgres   |          | Figma    |
-|               | Java       |          |          |
+</div>
